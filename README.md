@@ -10,7 +10,7 @@ This is an online white board that will allow you to brainstorm, work out proble
 Here is the live website. Feel free to check this out! [LIVE]()
 
 This is the demo screenshot of the Online WhiteBoard.
-![Online WhiteBoard]()
+![Online WhiteBoard](https://github.com/Utkarsh299-tech/Online-WhiteBoard/blob/main/online_Whiteboard.png)
 
 # Reference
 I referred this YouTube video [tutorial]() to create this Board.
