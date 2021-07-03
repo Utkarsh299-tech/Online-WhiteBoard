@@ -6,8 +6,8 @@ This is an online white board that will allow you to brainstorm, work out proble
 * CSS
 * JavaScript
 
-# Live Preview
-Here is the live website. Feel free to check this out! [LIVE]()
+# Try It Out
+Here is the live preview of the website. Feel free to try it out! [LIVE](https://online-whiteboard.netlify.app/)
 
 This is the demo screenshot of the Online WhiteBoard.
 ![Online WhiteBoard](https://github.com/Utkarsh299-tech/Online-WhiteBoard/blob/main/online_Whiteboard.png)
