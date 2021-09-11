@@ -8,6 +8,8 @@ body{
   text-align="center";
   top:0;
   display: flex;
+  width="30%";
+  margin:10px auto;
   
 }
 h1
