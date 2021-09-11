@@ -12,13 +12,7 @@ body{
   margin:10px auto;
   
 }
-/* h1
-{
-  
-  justify-content: center;
-  align-items: center;
-  font-family: 'Bona Nova', serif;
-}
+
 button
 {
   position: absolute;
@@ -39,4 +33,4 @@ button:active
 {
   transform: scale(0.95);
 }
- */
+ 
