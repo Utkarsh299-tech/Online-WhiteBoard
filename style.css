@@ -12,7 +12,10 @@ body{
   margin:10px auto;
   
 }
-
+.btn{
+  left:0;
+}
+/* 
 button
 {
   position: absolute;
@@ -33,4 +36,4 @@ button:active
 {
   transform: scale(0.95);
 }
- 
+  */
