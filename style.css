@@ -8,7 +8,7 @@ body{
   text-align="center";
   top:0;
   display: flex;
-  width="30%";
+  width=100%;
   margin:10px auto;
   
 }
