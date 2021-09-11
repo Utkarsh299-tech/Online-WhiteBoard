@@ -3,6 +3,11 @@ body{
   width:100%;
   height:100vh;
 }
+.container{
+  align-items="center";
+  text-align="center";
+  top:0;
+}
 h1
 {
   display: flex;
